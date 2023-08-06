@@ -2,7 +2,7 @@
   "name": "reactjs-hello-world",
   "version": "1.0.0",
   "description": "",
-  "main": "App.js",
+  
   "scripts": {
     "test": "jest"
   },
