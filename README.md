@@ -27,3 +27,5 @@ Small Ministers (Packages) -->
   It removes unused code
 - Lazy mode
 - Different dev and production bundles
+
+- Pallavi
