@@ -26,20 +26,30 @@ import ReactDOM from "react-dom/client";
 //JSX => Bable transpiles it to React.createElement => ReactElement-JS Object => HTMLElement(render)
 
 //React Element (Object)
-const JSXheading = (
-  <h1 className="heading" tabIndex="1">
-    Pallavi is here
-  </h1>
-);
+// const heading = (
+//   <h1 className="heading" tabIndex="1">
+//     Pallavi is here
+//   </h1>
+// );
 
 //console.log(JSXheading);
 //React Component
 //Types of Components
 
 //React Functional Component
-const HeadingComponent = () => {
-  return <h1>Namaste React Functional Component</h1>
-}
+
+const Heading = () => (
+  <h1 className="heading" tabIndex="1">
+    Pallavi is here
+  </h1>
+);
+const HeadingComponent = () => (
+  <div id="container">
+    <Heading />
+    <h1 className="heading">Namaste React Functional Component</h1>
+  </div>
+);
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(JSXheading);
+//root.render(heading);
+root.render(<HeadingComponent />);
