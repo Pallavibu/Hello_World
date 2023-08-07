@@ -24,12 +24,22 @@ import ReactDOM from "react-dom/client";
 //using JSX (HTML or XML like syntax)
 //JSX (transpiled before it reaches the JS) - Parcel - Babel
 //JSX => Bable transpiles it to React.createElement => ReactElement-JS Object => HTMLElement(render)
+
+//React Element (Object)
 const JSXheading = (
   <h1 className="heading" tabIndex="1">
     Pallavi is here
   </h1>
 );
-console.log(JSXheading);
+
+//console.log(JSXheading);
+//React Component
+//Types of Components
+
+//React Functional Component
+const HeadingComponent = () => {
+  return <h1>Namaste React Functional Component</h1>
+}
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(JSXheading);
