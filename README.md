@@ -21,7 +21,7 @@ Small Ministers (Packages) -->
 - Differential Bundling - Parcel takes care of all the browser and give different bundles to our app based om the browser.
   It also supports older browsers also
 - Diagnostic
-- Better Eroor Suggestions - Error handlings
+- Better Error Suggestions - Error handlings
 - HTTPS
 - Tree shaking Algorithms
   It removes unused code

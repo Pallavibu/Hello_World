@@ -17,16 +17,19 @@ import ReactDOM from "react-dom/client";
 // const root = ReactDOM.createRoot(document.getElementById("root"));
 // root.render(parent);
 
-
 // using React
 // const heading = React.createElement("h1", {id : "idName"},"Pallavi id here")
 // console.log(heading)
 
 //using JSX (HTML or XML like syntax)
-//
-const JSXheading = <h1 id="heading">Pallavi is here</h1>
-console.log(JSXheading)
+//JSX (transpiled before it reaches the JS) - Parcel - Babel
+//JSX => React.createElement => ReactElement-JS Object => HTMLElement(render)
+const JSXheading = (
+  <h1 className="heading" tabIndex="1">
+    Pallavi is here
+  </h1>
+);
+console.log(JSXheading);
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(JSXheading);
-
