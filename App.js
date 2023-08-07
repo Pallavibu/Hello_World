@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-// React.createElement => Object => HTMLElement (render)
+// React.createElement => Reactelement(JS Object) => when rendered converts to HTMLElement (render)
 
 // const parent = React.createElement("div", { id: "parent" }, [
 //   React.createElement("div", { id: "child1" }, [
@@ -20,7 +20,13 @@ import ReactDOM from "react-dom/client";
 
 // using React
 // const heading = React.createElement("h1", {id : "idName"},"Pallavi id here")
-
+// console.log(heading)
 
 //using JSX (HTML or XML like syntax)
-const JSXheading = <h1>Pallavi is here</h1>
+//
+const JSXheading = <h1 id="heading">Pallavi is here</h1>
+console.log(JSXheading)
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(JSXheading);
+
