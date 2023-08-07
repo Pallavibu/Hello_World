@@ -1,20 +1,20 @@
-6026
+6033
 99C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\css-select\node_modules\dom-serializer\LICENSE133356984313350022 0
 96C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@parcel\reporter-cli\lib\CLIReporter.js.map133356984315902204 0
 77C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\htmlparser2\lib\index.js133356984258796010 0
-50C:\Users\hp\Desktop\Reactjs-Hello World\.gitignore133356985622169504 0
+50C:\Users\hp\Desktop\Reactjs-Hello World\.gitignore133358522053116926 0
 61C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\css-what133356984264197188 1
 122C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeViewBox.js133356984320098384 0
 61C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\mdn-data133356984265737605 1
 82C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\source-map\lib\source-node.js133356984263085965 0
 62C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\path-type133356984261313983 1
 89C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@parcel\core\lib\summarizeRequest.js133356984327912824 0
-52C:\Users\hp\Desktop\Reactjs-Hello World\package.json133357128822874977 0
+52C:\Users\hp\Desktop\Reactjs-Hello World\package.json133358531937481608 0
 106C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\lmdb\node_modules\msgpackr\dist\index-no-eval.cjs.map133356984317940385 0
 91C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\css-tree\cjs\syntax\node\Condition.cjs133356984264176638 0
 82C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\lightningcss\node\ast.js.flow133356984262634415 0
 73C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@swc\core\types.d.ts133356984274562644 0
-44C:\Users\hp\Desktop\Reactjs-Hello World\dist133357128827424205 1
+44C:\Users\hp\Desktop\Reactjs-Hello World\dist133358532021130359 1
 63C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\is-extglob133356984258087084 1
 110C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\csso\node_modules\css-tree\cjs\generator\token-before.cjs133356984320175244 0
 61C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\get-port133356984300576133 1
@@ -23,7 +23,7 @@
 80C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\css-tree\lib\lexer\Lexer.js133356984277611385 0
 65C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\import-fresh133356984261595985 1
 130C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\scope\selector.js133356984321050148 0
-46C:\Users\hp\Desktop\Reactjs-Hello World\App.js133357145119652564 0
+46C:\Users\hp\Desktop\Reactjs-Hello World\App.js133357363341757972 0
 91C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@parcel\diagnostic\lib\diagnostic.d.ts133356984316971212 0
 79C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@parcel\diagnostic\LICENSE133356984316489026 0
 113C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\csso\node_modules\css-tree\lib\syntax\scope\atrulePrelude.js133356984320672360 0
@@ -71,6 +71,17 @@
 119C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\css-select\node_modules\entities\lib\esm\decode_codepoint.d.ts.map133356984314685705 0
 81C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\nth-check\lib\compile.js.map133356984262710802 0
 52C:\Users\hp\Desktop\Reactjs-Hello World\node_modules133357146227238315 1
+75C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\term-size\vendor\macos133356984262559622 1
+89C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\css-what\lib\commonjs\stringify.d.ts133356984264962206 0
+102C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\csso\node_modules\css-tree\lib\syntax\node\Nth.js133356984322559404 0
+103C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\csso\node_modules\css-tree\cjs\syntax\node\CDC.cjs133356984314229518 0
+108C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@swc\helpers\_\_class_private_field_update\package.json133356984279793605 0
+83C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\svgo\plugins\preset-default.js133356984267779410 0
+70C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\lmdb\node_modules133356984253269984 1
+100C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\css-select\node_modules\entities\lib\index.d.ts133356984318255452 0
+75C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\domelementtype\LICENSE133356984257923816 0
+91C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\csso\cjs\replace\AttributeSelector.cjs133356984263425984 0
+49C:\Users\hp\Desktop\Reactjs-Hello World\README.md133358218688983104 0
 101C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\lmdb\node_modules\node-addon-api\tools\README.md133356984317644798 0
 91C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\caniuse-lite\data\features\auxclick.js133356984268554396 0
 107C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\import.js133356984321894297 0
@@ -242,15 +253,6 @@
 65C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\caniuse-lite133356984288061116 1
 58C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\chalk133356984300659445 1
 104C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\caniuse-lite\data\features\dom-manip-convenience.js133356984279622546 0
-115C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule133356984321139070 1
-97C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@parcel\reporter-dev-server\src\HMRServer.js133356984317284326 0
-70C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\source-map-js\lib133356984262904000 1
-130C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\moveGroupAttrsToElems.js133356984318965815 0
-89C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\caniuse-lite\data\features\jpegxl.js133356984282522899 0
-78C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\resolve-from\package.json133356984258858378 0
-106C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\css-select\node_modules\domutils\lib\esm\feeds.js.map133356984315677772 0
-79C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\node-releases\package.json133356984261060418 0
-60C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\js-yaml133356984266876423 1
 85C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\svgo\plugins\sortDefsChildren.js133356984269960491 0
 80C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\css-tree\lib\utils\names.js133356984278022041 0
 58C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\clone133356984263598132 1
@@ -350,6 +352,15 @@
 98C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\csso\node_modules\css-tree\lib\lexer\error.js133356984321356069 0
 62C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\js-tokens133356984260120651 1
 76C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\dotenv-expand\README.md133356984263111040 0
+115C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule133356984321139070 1
+97C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@parcel\reporter-dev-server\src\HMRServer.js133356984317284326 0
+70C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\source-map-js\lib133356984262904000 1
+130C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\moveGroupAttrsToElems.js133356984318965815 0
+89C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\caniuse-lite\data\features\jpegxl.js133356984282522899 0
+78C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\resolve-from\package.json133356984258858378 0
+106C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\css-select\node_modules\domutils\lib\esm\feeds.js.map133356984315677772 0
+79C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\node-releases\package.json133356984261060418 0
+60C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\js-yaml133356984266876423 1
 128C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure\6-restructBlock.js133356984316014320 0
 108C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\scheduler\umd\scheduler-unstable_mock.production.min.js133357128062176729 0
 102C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\css-select\node_modules\domutils\lib\feeds.js.map133356984315749929 0
@@ -875,12 +886,10 @@
 111C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\csso\node_modules\css-tree\lib\syntax\node\TypeSelector.js133356984323209934 0
 73C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\ordered-binary\.idea133356984263821644 1
 87C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\type-fest\ts41\delimiter-case.d.ts133356984263766679 0
-97C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\caniuse-lite\data\features\es6-generators.js133356984279898836 0
-100C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.h133356984273703418 0
 83C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\type-fest\ts41\kebab-case.d.ts133356984265043961 0
 78C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\tslib\CopyrightNotice.txt133356984263881997 0
 84C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\type-fest\ts41\pascal-case.d.ts133356984265770470 0
-55C:\Users\hp\Desktop\Reactjs-Hello World\dist\index.html133357128827235480 0
+55C:\Users\hp\Desktop\Reactjs-Hello World\dist\index.html133358532020447058 0
 74C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\detect-libc\README.md133356984261786828 0
 86C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@parcel\core\lib\public\Config.js133356984326196761 0
 80C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\semver\functions\compare.js133356984263564052 0
@@ -1058,12 +1067,6 @@
 74C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\mdn-data\api\index.js133356984257624519 0
 79C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\term-size\vendor\.DS_Store133356984261651304 0
 84C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\caniuse-lite\data\regions\CY.js133356984279263077 0
-75C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\term-size\vendor\macos133356984262559622 1
-89C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\css-what\lib\commonjs\stringify.d.ts133356984264962206 0
-102C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\csso\node_modules\css-tree\lib\syntax\node\Nth.js133356984322559404 0
-103C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\csso\node_modules\css-tree\cjs\syntax\node\CDC.cjs133356984314229518 0
-108C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@swc\helpers\_\_class_private_field_update\package.json133356984279793605 0
-83C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\svgo\plugins\preset-default.js133356984267779410 0
 86C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\htmlnano\docs\docs\040-presets.md133356984269863696 0
 101C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@swc\helpers\esm\_check_private_redeclaration.js133356984272785569 0
 83C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\nth-check\lib\esm\parse.js.map133356984264134147 0
@@ -1320,8 +1323,6 @@
 75C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\msgpackr\dist\index.js133356984264560389 0
 72C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\loose-envify\cli.js133357127800059900 0
 62C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\react\cjs133357127802409383 1
-83C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\react\umd\react.development.js133357127802165121 0
-77C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\react-dom\server.node.js133357128064688512 0
 93C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\css-tree\cjs\syntax\config\generator.cjs133356984268497941 0
 81C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\source-map\lib\quick-sort.js133356984262236285 0
 90C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\source-map\lib\source-map-consumer.js133356984262634415 0
@@ -1530,6 +1531,8 @@
 116C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\csso\node_modules\css-tree\lib\syntax\config\parser-selector.js133356984322696379 0
 82C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\react-error-overlay\README.md133356984263609618 0
 75C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\react-dom\profiling.js133357128061997454 0
+83C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\react\umd\react.development.js133357127802165121 0
+77C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\react-dom\server.node.js133357128064688512 0
 100C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\posthtml\node_modules\posthtml-parser\readme.md133356984315378289 0
 115C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\Number.js133356984318634467 0
 76C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\react-dom\test-utils.js133357128064704680 0
@@ -2071,9 +2074,6 @@
 67C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\lmdb\native.js133356984274746227 0
 69C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\lmdb\index.d.cts133356984272036442 0
 66C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\lmdb\level.js133356984274699588 0
-70C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\lmdb\node_modules133356984253269984 1
-100C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\css-select\node_modules\entities\lib\index.d.ts133356984318255452 0
-75C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\domelementtype\LICENSE133356984257923816 0
 122C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\index.d.ts.map133356984317927055 0
 97C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\csso\node_modules\mdn-data\css\at-rules.json133356984312935881 0
 65C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\lmdb\open.js133356984274826510 0
@@ -2263,6 +2263,7 @@
 74C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\caniuse-lite\dist\lib133356984285911550 1
 104C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.1133356984265594425 0
 95C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\caniuse-lite\data\features\style-scoped.js133356984285856278 0
+66C:\Users\hp\Desktop\Reactjs-Hello World\dist\index.692a8b3c.js.map133358204580085014 0
 89C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\css-what\lib\commonjs\types.d.ts.map133356984263892031 0
 104C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.1133356984265737605 0
 78C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@parcel\reporter-cli\test133356984314886548 1
@@ -2279,6 +2280,8 @@
 104C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.c133356984268775731 0
 107C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl-sparse.c133356984269784599 0
 91C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\caniuse-lite\data\features\wai-aria.js133356984287084704 0
+97C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\caniuse-lite\data\features\es6-generators.js133356984279898836 0
+100C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.h133356984273703418 0
 114C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\csso\node_modules\css-tree\cjs\syntax\scope\atrulePrelude.cjs133356984314111558 0
 92C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\json-parse-even-better-errors\README.md133356984261022945 0
 102C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.c133356984269940446 0
@@ -2716,8 +2719,8 @@
 103C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\csso\node_modules\css-tree\cjs\parser\sequence.cjs133356984319997346 0
 108C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\css-select\node_modules\entities\lib\esm\index.d.ts.map133356984316928004 0
 82C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\domutils\lib\helpers.d.ts.map133356984262989620 0
-75C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\css-tree\dist\data.cjs133356984265848078 0
 76C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\domutils\lib\helpers.js133356984258561610 0
+75C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\css-tree\dist\data.cjs133356984265848078 0
 93C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@parcel\utils\src\generateCertificate.js133356984313738036 0
 122C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\css-select\node_modules\entities\lib\esm\generated\encode-html.js.map133356984315832125 0
 87C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\css-tree\lib\syntax\scope\index.js133356984277453358 0
@@ -2963,6 +2966,7 @@
 112C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\caniuse-lite\data\features\background-repeat-round-space.js133356984269622197 0
 104C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\csso\node_modules\css-tree\lib\syntax\node\Ratio.js133356984322836476 0
 93C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\csso\node_modules\css-tree\dist\data.cjs133356984315488663 0
+62C:\Users\hp\Desktop\Reactjs-Hello World\dist\index.692a8b3c.js133358204579994628 0
 85C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\css-what\lib\commonjs\types.d.ts133356984265175408 0
 102C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\csso\node_modules\css-tree\lib\syntax\node\Raw.js133356984322846509 0
 107C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\csso\node_modules\css-tree\lib\syntax\node\Selector.js133356984322899643 0
@@ -3220,7 +3224,6 @@
 92C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\css-tree\lib\syntax\node\Declaration.js133356984276324101 0
 97C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\csso\cjs\restructure\prepare\specificity.cjs133356984266374408 0
 76C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\csso\cjs\replace\atrule133356984265713715 1
-91C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\csso\cjs\replace\AttributeSelector.cjs133356984263425984 0
 84C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\caniuse-lite\data\regions\MQ.js133356984283734002 0
 79C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\csso\cjs\replace\color.cjs133356984264093006 0
 83C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\csso\cjs\replace\Dimension.cjs133356984264994116 0
@@ -3810,6 +3813,7 @@
 79C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\color-convert\package.json133356984259595167 0
 63C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\base-x\src133356984263550596 1
 76C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\color-convert\README.md133356984262531663 0
+67C:\Users\hp\Desktop\Reactjs-Hello World\dist\index.35025c77.css.map133358204580074096 0
 67C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\clone\clone.js133356984263496187 0
 99C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\caniuse-lite\data\features\css-font-stretch.js133356984276371937 0
 87C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@swc\helpers\_\_async_to_generator133356984279494397 1
@@ -4228,8 +4232,8 @@
 87C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\caniuse-lite\data\features\flac.js133356984280390739 0
 106C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\caniuse-lite\data\features\focusin-focusout-events.js133356984280734444 0
 101C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@swc\helpers\esm\_is_native_reflect_construct.js133356984277139480 0
-95C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\caniuse-lite\data\features\font-feature.js133356984280758441 0
 67C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@parcel\logger133356984313448480 1
+95C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\caniuse-lite\data\features\font-feature.js133356984280758441 0
 95C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\caniuse-lite\data\features\font-kerning.js133356984280780084 0
 87C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@parcel\workers\test\workerfarm.js133356984277516714 0
 95C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\caniuse-lite\data\features\font-loading.js133356984280802860 0
@@ -4790,6 +4794,7 @@
 111C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\l10n\index.js133356984316624069 0
 90C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@swc\helpers\cjs\_new_arrow_check.cjs133356984269642297 0
 94C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@swc\helpers\cjs\_non_iterable_spread.cjs133356984269750278 0
+63C:\Users\hp\Desktop\Reactjs-Hello World\dist\index.35025c77.css133358204579980623 0
 78C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@swc\helpers\cjs\_set.cjs133356984270196887 0
 98C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@swc\helpers\cjs\_tagged_template_literal.cjs133356984270688518 0
 83C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\@swc\helpers\cjs\_to_array.cjs133356984270808940 0
@@ -6023,5 +6028,7 @@
 66C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\.bin\svgo.ps1133356984360084056 0
 80C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\.bin\update-browserslist-db133356984360084056 0
 84C:\Users\hp\Desktop\Reactjs-Hello World\node_modules\.bin\update-browserslist-db.ps1133356984360084056 0
-63C:\Users\hp\Desktop\Reactjs-Hello World\dist\index.9e4c6fd2.css133357128827010614 0
-67C:\Users\hp\Desktop\Reactjs-Hello World\dist\index.9e4c6fd2.css.map133357128827140576 0
+62C:\Users\hp\Desktop\Reactjs-Hello World\dist\index.7826abd7.js133358532020954245 0
+66C:\Users\hp\Desktop\Reactjs-Hello World\dist\index.7826abd7.js.map133358532021112051 0
+63C:\Users\hp\Desktop\Reactjs-Hello World\dist\index.9e4c6fd2.css133358532020043474 0
+67C:\Users\hp\Desktop\Reactjs-Hello World\dist\index.9e4c6fd2.css.map133358532020110779 0
