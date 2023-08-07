@@ -23,7 +23,7 @@ import ReactDOM from "react-dom/client";
 
 //using JSX (HTML or XML like syntax)
 //JSX (transpiled before it reaches the JS) - Parcel - Babel
-//JSX => React.createElement => ReactElement-JS Object => HTMLElement(render)
+//JSX => Bable transpiles it to React.createElement => ReactElement-JS Object => HTMLElement(render)
 const JSXheading = (
   <h1 className="heading" tabIndex="1">
     Pallavi is here
