@@ -2977,7 +2977,7 @@ var _clientDefault = parcelHelpers.interopDefault(_client);
 //React Component
 //Types of Components
 //React Functional Component
-const Heading = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+const Title = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
         className: "heading",
         tabIndex: "1",
         children: "Pallavi is here"
@@ -2986,11 +2986,11 @@ const Heading = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
         lineNumber: 42,
         columnNumber: 3
     }, undefined);
-_c = Heading;
+_c = Title;
 const HeadingComponent = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         id: "container",
         children: [
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Heading, {}, void 0, false, {
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Title, {}, void 0, false, {
                 fileName: "App.js",
                 lineNumber: 48,
                 columnNumber: 5
@@ -3011,14 +3011,16 @@ const HeadingComponent = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
     }, undefined);
 _c1 = HeadingComponent;
 const root = (0, _clientDefault.default).createRoot(document.getElementById("root"));
+//rendering react elements
 //root.render(heading);
+// rendering react components
 root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(HeadingComponent, {}, void 0, false, {
     fileName: "App.js",
-    lineNumber: 55,
+    lineNumber: 59,
     columnNumber: 13
 }, undefined));
 var _c, _c1;
-$RefreshReg$(_c, "Heading");
+$RefreshReg$(_c, "Title");
 $RefreshReg$(_c1, "HeadingComponent");
 
   $parcel$ReactRefreshHelpers$c1db.postlude(module);

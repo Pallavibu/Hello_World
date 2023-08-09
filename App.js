@@ -38,18 +38,22 @@ import ReactDOM from "react-dom/client";
 
 //React Functional Component
 
-const Heading = () => (
+const Title = () => (
   <h1 className="heading" tabIndex="1">
     Pallavi is here
   </h1>
 );
 const HeadingComponent = () => (
   <div id="container">
-    <Heading />
+    <Title />
     <h1 className="heading">Namaste React Functional Component</h1>
   </div>
 );
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
+
+//rendering react elements
 //root.render(heading);
+
+// rendering react components
 root.render(<HeadingComponent />);
