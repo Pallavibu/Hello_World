@@ -36,16 +36,30 @@ import ReactDOM from "react-dom/client";
 //React Component
 //Types of Components
 
-//React Functional Component
-
-const Title = () => (
+//Normal javascript variable
+const Title = (
   <h1 className="heading" tabIndex="1">
     Pallavi is here
   </h1>
 );
+
+//React Functional Component
+const Title1 = () => (
+  <h1 className="heading" tabIndex="1">
+    Pallavi is here
+  </h1>
+);
+
+const number = 100;
+
 const HeadingComponent = () => (
   <div id="container">
-    <Title />
+    <h1>{200 + 100}</h1>
+    {number}
+    {Title}
+
+    
+    <Title1 />
     <h1 className="heading">Namaste React Functional Component</h1>
   </div>
 );
